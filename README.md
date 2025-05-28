@@ -8,7 +8,8 @@ Rick and Morty Universe Explorer
 
 Реализовать многостраничное SPA-приложение
 
-🛠️ Технологии
+🛠️ Технологии:
+
 React ⚛️
 
 React Router v6 🚦
@@ -42,6 +43,7 @@ npm install
 npm run dev 
 
 📝 Вывод
+
 В этом проекте я:
 
 Освоил React Router v6 на практике ✅
