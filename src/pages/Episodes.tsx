@@ -1,5 +1,5 @@
 import episodes from '../assets/data/episode.json'
-import { EpisodeCard } from '../ui/EpisodeCard';
+import { EpisodeCard } from '../components/EpisodeCard';
 
 export function Episodes() {
   return (

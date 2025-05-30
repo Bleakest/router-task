@@ -1,5 +1,5 @@
 import locations from '../assets/data/location.json'
-import { LocationCard } from '../ui/LocationCard';
+import { LocationCard } from '../components/LocationCard';
 
 export function Locations() {
 

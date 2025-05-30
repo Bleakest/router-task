@@ -1,5 +1,5 @@
 import characters from '../assets/data/characters.json'
-import { HeroCard } from '../ui/HeroCard';
+import { HeroCard } from '../components/HeroCard';
 
 export function Characters() {
 
